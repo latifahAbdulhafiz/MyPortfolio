@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web", "web\web.csproj", "{CE75ACF1-328B-41AD-803C-0014B10032B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{FA6CA2A2-A560-419D-B998-666C97EA39EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infastructure", "Infastructure\Infastructure.csproj", "{754B6C76-5546-4C1D-9735-F28D170B8556}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE75ACF1-328B-41AD-803C-0014B10032B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE75ACF1-328B-41AD-803C-0014B10032B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE75ACF1-328B-41AD-803C-0014B10032B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE75ACF1-328B-41AD-803C-0014B10032B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA6CA2A2-A560-419D-B998-666C97EA39EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA6CA2A2-A560-419D-B998-666C97EA39EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA6CA2A2-A560-419D-B998-666C97EA39EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA6CA2A2-A560-419D-B998-666C97EA39EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{754B6C76-5546-4C1D-9735-F28D170B8556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{754B6C76-5546-4C1D-9735-F28D170B8556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{754B6C76-5546-4C1D-9735-F28D170B8556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{754B6C76-5546-4C1D-9735-F28D170B8556}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6A938AF-2220-4AC2-B9C8-62867986CE53}
+	EndGlobalSection
+EndGlobal
